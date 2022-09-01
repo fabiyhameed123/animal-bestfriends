@@ -1,0 +1,168 @@
+.nav {
+    height: 10.7vmax;
+    width: 7.98vmax;
+    border-style: none;
+    margin-left: 65px;
+}
+
+.lb1 {
+    color: purple;
+}
+
+.lb2 {
+    color: blueviolet;
+    font-size: 20px;
+}
+
+.lb3 {
+    color: purple;
+}
+
+.nav2 {
+    background-color: red;
+    height: 13vmax;
+    text-align: right;
+}
+
+.nav2 a {
+    margin-left: 50px;
+    color: white;
+    text-decoration: none;
+}
+
+.nav2 button {
+    background-color: rgb(83, 231, 231);
+    border-style: none;
+    height: 50px;
+    width: 90px;
+    margin-right: 30px;
+    border-radius: 50px;
+    margin-top: 50px
+}
+
+.nav2 label {
+    color: white;
+    margin-top: 40px;
+    float: left;
+    font-size: 20px;
+}
+
+.bdy {
+    background-image: url(../images/b54dc23e-34f6-460e-8931-26ccc2f8677f-sh032620coronapets005.webp);
+    height: 40vmax;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5vmax;
+    text-align: center;
+}
+
+.bdy h1 {
+    color: white;
+    font-size: 50px;
+    margin-top: 8vmax;
+}
+
+.bdy h4 {
+    color: white;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.bdy label {
+    color: white;
+    font-size: 30px;
+}
+
+.bdy button {
+    background-color: aqua;
+    color: white;
+    font-size: 20px;
+    border-style: none;
+    height: 60px;
+    width: 17vmax;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+
+.bdy2 {
+    background-color: rgb(240, 172, 240);
+    height: 27vmax;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5vmax;
+    text-align: center;
+}
+
+.bdy2 button {
+    background-color: aqua;
+    color: white;
+    font-size: 20px;
+    border-style: none;
+    height: 60px;
+    width: 17vmax;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+
+.row img {
+    height: 15vmax;
+    width: 15vmax;
+    border-radius: 20px;
+}
+
+.row video {
+    height: 15vmax;
+    width: 50vmax;
+    border-radius: 20px;
+}
+
+.bdy4 {
+    margin-top: 9vmax;
+}
+
+.bdy3 {
+    background-color: rgba(216, 191, 216, 0.493);
+    margin-top: 9vmax;
+    position: relative;
+    height: 60vmax;
+}
+
+.bdy3 h4 {
+    font-size: 20px;
+    margin-top: 5vmax;
+    margin-bottom: 5vmax;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.set {
+    background-image: url(../images/download.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height: 30vmax;
+    width: 40vmax;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.bet {
+    background-image: url(../images/download\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    
+    height: 30vmax;
+    width: 40vmax;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.set h1 {
+    font-size: 20px;
+    margin-top: 6vmax
+}
+
+.bet h1 {
+    font-size: 20px;
+    margin-top: 6vmax
+}
