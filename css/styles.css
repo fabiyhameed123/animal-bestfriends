@@ -25,7 +25,13 @@
 .lb3 {
     color: purple;
 }
-
+.navbar {
+     background-color: rgb(71, 25, 71);
+     height: 70px;
+}
+.navbar button{
+    margin-top: 70px;
+}
 .nav2 {
     background-color: red;
     height: 13vmax;
@@ -258,7 +264,6 @@
     border-radius: 50px;
     margin-top: 20px;
 }
-
 .bdy7 img {
     margin-top: 5vmax;
 }
